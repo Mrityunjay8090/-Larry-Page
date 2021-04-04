@@ -1,0 +1,16 @@
+body{
+    background-color:coral;
+    text-align:center;
+    
+    
+}
+#para1{
+    font-size:40px;
+    font-family:serif;
+    color:darkblue;
+}
+#para2{
+    font-size:35px;
+    font-family:cursive;
+    color:darkgreen;
+}
